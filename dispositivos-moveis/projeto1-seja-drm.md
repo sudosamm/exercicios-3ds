@@ -6,7 +6,7 @@
 
 <div>
     <strong>PROJETO 1 – SEJA DRM</strong><br>
-    <strong>DATA DE ENTREGA:</strong> em sala
+    <strong>DATA DE ENTREGA:</strong> até dia 27/02 às 17:00.
 </div><br>
 
 <div>
