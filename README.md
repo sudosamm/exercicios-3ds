@@ -6,12 +6,12 @@ Complete o exercício no tempo estimado.
 Boas práticas!
 
 # 1º BIMESTRE
-Avaliações Parciais: - | Avaliações Bimestrais: 01/04
+Avaliações Parciais: - | Avaliações Bimestrais: 01/04 📅
 ### 📱 Desenvolvimento de Aplicação para Dispositivos Móveis
-Projeto 01 - OK ✔
-Projeto 02 - OK ✔
-Projeto 03 - Aguardando entregas até 28/03...
-Projeto 04 - A caminho...
+- Projeto 01 - OK ✔
+- Projeto 02 - OK ✔
+- Projeto 03 - Aguardando entregas até 28/03... ⏳
+- Projeto 04 - A caminho... ⏳
 
 # 2º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
