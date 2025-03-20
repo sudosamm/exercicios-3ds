@@ -18,7 +18,7 @@
 
 <div>
   Observações sobre o projeto:<br>
-  Ambas as páginas serão criadas no arquivo App.tsx. O CPF para realizar o login deve ser o 000.000.000-00. Você deve utilizar a renderização condicional para exibir as telas, e métodos do useState para armazenar e verificar os dados. Lembre-se também de criar uma função para limpar o campo de texto ao voltar para a tela de login.
+  Ambas as páginas serão criadas no arquivo App.tsx. O CPF para realizar o login deve ser o 000.000.000-00. Você deve utilizar a renderização condicional para exibir as telas, e métodos do useState para armazenar e verificar os dados. Lembre-se também de criar uma função para limpar o campo de texto ao voltar para a tela de login. As imagens necessárias podem ser encontradas na pasta assets deste repositório.
   
 </div><br>
 
