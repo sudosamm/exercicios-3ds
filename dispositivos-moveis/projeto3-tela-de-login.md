@@ -5,8 +5,8 @@
 </div><br>
 
 <div>
-    <strong>PROJETO 3 – TELA DE LOGIN</strong><br>
-    <strong>DATA DE ENTREGA:</strong> até dia 28/03 às 23:59.
+    <h2><strong>PROJETO 3 – TELA DE LOGIN</strong></h2>
+    <strong>DATA DE ENTREGA:</strong> até dia 10/04 às 23:59.
 </div><br>
 
 <div>
@@ -17,13 +17,18 @@
 </div><br>
 
 <div>
-  Observações sobre o projeto:<br>
+  <h2>Observações sobre o projeto:</h2>
   Ambas as páginas serão criadas no arquivo App.tsx. O CPF para realizar o login deve ser o 000.000.000-00. Você deve utilizar a renderização condicional para exibir as telas, e métodos do useState para armazenar e verificar os dados. Lembre-se também de criar uma função para limpar o campo de texto ao voltar para a tela de login. As imagens necessárias podem ser encontradas na pasta assets deste repositório.
   
 </div><br>
 
 <div>
-    Algumas informações importantes:
+    <h2>Desafio:</h2>
+    Agora que você conseguiu renderizar uma tela utilizando uma condicional, crie uma nova tela condicional que será acessada com outro CPF específicado por você. Nesta tela, insira uma mensagem de boas vindas e também um contador para que o usuário saiba quantas vezes alguém clicou no botão de login.
+</div><br>
+
+<div>
+    <h2>Algumas informações importantes:</h2>
     <ol>
         <li>Reescreva todo o texto e replique o site conforme mostrado na imagem.</li>
         <li>Ao termino do projeto, publique todos os arquivos no seu github.</li>
