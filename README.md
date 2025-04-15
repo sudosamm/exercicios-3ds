@@ -10,12 +10,12 @@ Avaliações Parciais: - | Avaliações Bimestrais: 02/04 📅
 ### 📱 Desenvolvimento de Aplicação para Dispositivos Móveis
 - Projeto 01 - OK ✔
 - Projeto 02 - OK ✔
-- Projeto 03 - Até 10/04 ⏳
+- Projeto 03 - OK ✔
 
 # 2º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
 ### 📱 Desenvolvimento de Aplicação para Dispositivos Móveis
-Aguardando projetos...
+- Projeto 04 - Até 21/04 ⏳
 
 # Regras para Correção
 
