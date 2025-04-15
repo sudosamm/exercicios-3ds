@@ -37,9 +37,9 @@
 
 <div>
     <h2>Desafio:</h2>
-    Agora que você conseguiu criar uma tela que confirma o login do usuário, utilize a renderização condicional para criar outras telas: 
-    - Uma página do usuário, contendo uma foto do usuário, seu nome completo, email e aniversário;
-    - Uma página para resetar a senha do usuário;
+    Agora que você conseguiu criar uma tela que confirma o login do usuário, utilize a renderização condicional para criar outras telas: <br> 
+    - Uma página do usuário, contendo uma foto do usuário, seu nome completo, email e aniversário;  <br> 
+    - Uma página para resetar a senha do usuário;  <br> 
     - Uma página para criar uma nova conta (esta conta vai substituir os dados da conta original, sendo eles: email, senha, nome completo e data de nascimento.
 </div><br>
 
