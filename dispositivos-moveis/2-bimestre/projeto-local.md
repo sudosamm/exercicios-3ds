@@ -74,7 +74,7 @@ Crie o arquivo ```index.tsx``` para a sua tela inicial.
 ```ts
 import { View, Text } from 'react-native'
 
-export default funcion Screen () {
+export default function Screen () {
   return (
     <View>
       <Text>
