@@ -10,7 +10,7 @@
 </div><br>
 
 <div>
-    <p><b>Crie uma aplicação que conterá listas de filmes de romance, aventura, terror, comédia e animação. Cada categoria deve possuir cerca de 6 filmes e pelo menos um em cada categoria deve possuir uma página funcional. Segue abaixo imagens de exemplo:</b></p>
+    <p><b>Crie uma aplicação que conterá listas de filmes de Animação, Aventura, Comédia, Romance e Terror. Cada categoria deve possuir cerca de 6 filmes e pelo menos um em cada categoria deve possuir uma página funcional. Segue abaixo imagens de exemplo:</b></p>
   Observações sobre o projeto:<br>
   - Será utilizado o ScrollView para criar uma página rolável. Os filmes devem estar um ao lado do outro e possuir título abaixo da sua imagem. 
   - Os filmes devem estar um ao lado do outro e possuir título abaixo da sua imagem. 
@@ -33,16 +33,14 @@
 
 <div>
   <h2>Observações sobre o projeto:</h2>
-  A página deve ser criada no arquivo App.tsx. Você deve utilizar os métodos do useState para armazenar e verificar os dados. Lembre-se também de criar uma função para limpar o campo de texto ao realizar um login com sucesso.
+  A página principal com os carrosséis de filmes deve ser criada no arquivo index.tsx.
   
 </div><br>
 
 <div>
     <h2>Desafio:</h2>
-    Agora que você conseguiu criar uma tela que confirma o login do usuário, utilize a renderização condicional para criar outras telas: <br> 
-    - Uma página do usuário, contendo uma foto do usuário, seu nome completo, email e aniversário;  <br> 
-    - Uma página para resetar a senha do usuário;  <br> 
-    - Uma página para criar uma nova conta (esta conta vai substituir os dados da conta original, sendo eles: email, senha, nome completo e data de nascimento.
+    Agora que você conseguiu criar o seu aplicativo de cinema, crie as páginas para os outros filmes existentes: <br> 
+    - Cada filme de cada categoria deve possuir uma página com nome, sinopse e duração. <br> 
 </div><br>
 
 <div>
