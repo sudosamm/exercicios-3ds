@@ -12,24 +12,24 @@
 <div>
     <p><b>Crie uma aplicação que conterá listas de filmes de Animação, Aventura, Comédia, Romance e Terror. Cada categoria deve possuir cerca de 6 filmes e pelo menos um em cada categoria deve possuir uma página funcional. Segue abaixo imagens de exemplo:</b></p>
   Observações sobre o projeto:<br>
-  - Será utilizado o ScrollView para criar uma página rolável. Os filmes devem estar um ao lado do outro e possuir título abaixo da sua imagem. 
-  - Os filmes devem estar um ao lado do outro e possuir título abaixo da sua imagem. 
-  - Ao clicar em um dos filmes (de sua preferência), o usuário deve ser redirecionado para a página do filme em questão.
+  - Será utilizado o ScrollView para criar uma página rolável. Os filmes devem estar um ao lado do outro e possuir título abaixo da sua imagem. <br>
+  - Os filmes devem estar um ao lado do outro e possuir título abaixo da sua imagem.  <br>
+  - Ao clicar em um dos filmes (de sua preferência), o usuário deve ser redirecionado para a página do filme em questão. <br>
   - O projeto deverá está centralizado na tela.<br>
   - Caso o usuário faça login com o email e senha corretamente, deverá mostrar um popup com a seguinte mensagem: "Login successful", caso contrário, deverá mostrar a seguinte mensagem: "Login failed".<br>
-  - Por padrão, os links de "Esqueci minha senha" e "Cadastre-se" são links normais, mas não serão direcionados a local nenhum.
+  - Por padrão, os links de "Esqueci minha senha" e "Cadastre-se" são links normais, mas não serão direcionados a local nenhum. <br>
   <p>Imagens do projeto:</p>
-    <img src="https://i.imgur.com/tIf4PUT.png" alt="tela 1">
-</div><br>
+    <!--<img src="https://i.imgur.com/tIf4PUT.png" alt="tela 1">
+</div><br>-->
 
-<div>
+<!--<div>
   <p><b>Sources utilizados no projeto:</b></p>
     - Preto: #fff<br>
     - Branco: #000<br>
     - Cinza: #999 e #777<br>
     - Azul: #4162b7<br>
     - Imagens para utilizar no projeto: https://i.imgur.com/FN96ykw.png<br>
-</div><br>
+</div><br>-->
 
 <div>
   <h2>Observações sobre o projeto:</h2>
