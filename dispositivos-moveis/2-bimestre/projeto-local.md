@@ -17,7 +17,7 @@ npx expo install react-dom react-native-web @expo/metro-runtime
 
 Inicie o projeto e leia o QR Code utilizando um dispositivo móvel para iniciar a visualização.
 ```sh
-npx start
+npm start
 ```
 
 - Utilize o seguinte comando somente caso não possua um dispositivo móvel disponível para realizar a visualização do projeto ou caso você precise exibir o projeto na tela do navegador.
