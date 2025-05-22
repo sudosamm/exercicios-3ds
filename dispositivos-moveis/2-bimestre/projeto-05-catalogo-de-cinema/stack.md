@@ -10,7 +10,7 @@
 </div><br>
 
 <div>
-    <p><b>Crie uma aplicação que conterá listas de filmes de Animação, Aventura, Comédia, Romance e Terror. Cada categoria deve possuir cerca de 6 filmes. Segue abaixo imagens de exemplo:</b></p>
+    <p><b>Crie uma aplicação que conterá listas de filmes de Animação, Aventura, Comédia, Romance e Terror. Cada categoria deve possuir cerca de 5 filmes. Segue abaixo imagens de exemplo:</b></p>
   Observações sobre o projeto:<br>
     <ul>
         <li>Será utilizado o ScrollView para criar uma página rolável.</li>
@@ -35,6 +35,7 @@
         <li>A página principal com os carroséis de filmes deve ser criada no arquivo index.tsx.</li>
         <li>As fotos dos filmes podem ser escolhidas pelo(a) próprio(a) desenvolvedor(a), contanto que não sejam de conteúdo explícito.</li>
         <li>O(a) desenvolvedor(a) tem direito de estilizar a sua aplicação como bem entender, contanto que se assemelhe ao modelo sugerido.</li>
+        <li>Você pode pegar as imagens de qualquer site. <a href="https://cinema10.com.br/generos">Clique aqui para acessar um site com imagens e categorias para os filmes.</a></li>
     </ul>
   
 </div><br>
@@ -48,7 +49,7 @@
         <li>Cada página deve possuir a mesma estilização, tendo diferenças apenas no nome, sinopse, duração e data de estréia.</li>
         <li>Para cada página criada, o arquivo deve possuir o nome do filme (primeiro nome+versão ou sequência caso seja um nome muito grande).</li>
     </ul>
-    <h3>Obs: o desafio irá ser recebido até o dia 26/05 às 23:59. A sua entrega constará em 0,25 pontos. Essa pontuação será reinvidicada após a semana de provas da base técnica.</h3>
+    <h3>Obs: o desafio irá ser recebido até o dia 27/05 às 23:59. A sua entrega constará em 0,5 pontos. Essa pontuação será reinvidicada após a semana de provas da base técnica.</h3>
     
 </div><br>
 
