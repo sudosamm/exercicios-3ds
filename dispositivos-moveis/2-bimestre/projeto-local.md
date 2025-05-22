@@ -15,16 +15,6 @@ Adicione as dependências que serão utilizadas para executar o projeto no naveg
 npx expo install react-dom react-native-web @expo/metro-runtime
 ```
 
-Inicie o projeto e leia o QR Code utilizando um dispositivo móvel para iniciar a visualização.
-```sh
-npm start
-```
-
-- Utilize o seguinte comando somente caso não possua um dispositivo móvel disponível para realizar a visualização do projeto ou caso você precise exibir o projeto na tela do navegador.
-```sh
-npm run web
-```
-
 ---
 
 ### 2. Importação e criação de páginas com Router.
@@ -34,24 +24,16 @@ Instale as dependências necessárias para o Router do expo.
 npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar
 ```
 
-No arquivo ```package.json``` localize a propriedade ```main``` e utilize ```expo-router/entry``` como o seu valor.
+No arquivo ```package.json``` localize a propriedade ```main``` na linha 4 e atualize o seu valor para ```expo-router/entry```. A linha deve ficar da seguinte forma:
 ```ts
-{
-  "main": "expo-router/entry"
-}
+"main": "expo-router/entry"
 ```
 
-Adicione um ```scheme```no seu ```app.json```.
-```ts
-{
-  "scheme": "your-app-scheme"
-}
-```
-
-Habilite o suporte para o Metro no seu ```app.json```.
+No arquivo ```app.json``` localize a linha 25 que contém a propriedade ```web:``` na linha 25 e adicione o suporte para o Metro. A linha ficará da seguinte forma:
 ```ts
 {
   "web": {
+    "favicon": "./assets/favicon.png",
     "bundler": "metro"
   }
 }
@@ -83,4 +65,14 @@ export default function Screen () {
     </View>
   )
 }
+```
+
+Inicie o projeto e leia o QR Code utilizando um dispositivo móvel para iniciar a visualização.
+```sh
+npm start
+```
+
+- Utilize o seguinte comando somente caso não possua um dispositivo móvel disponível para realizar a visualização do projeto ou caso você precise exibir o projeto na tela do navegador.
+```sh
+npm run web
 ```
